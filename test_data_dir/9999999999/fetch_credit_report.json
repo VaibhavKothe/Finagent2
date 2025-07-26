@@ -1,0 +1,9 @@
+{
+  "creditScore": 812,
+  "reportDate": "2024-06-01",
+  "accounts": [
+    {"type": "Credit Card", "bank": "HDFC Bank", "limit": 200000, "balance": 12000, "status": "Active"},
+    {"type": "Home Loan", "bank": "SBI", "limit": 5000000, "balance": 3200000, "status": "Active"},
+    {"type": "Personal Loan", "bank": "ICICI Bank", "limit": 300000, "balance": 50000, "status": "Closed"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "stockTransactions": [
+    {
+      "date": "2024-01-15",
+      "type": "BUY",
+      "symbol": "TCS",
+      "quantity": 5,
+      "price": 3500
+    },
+    {
+      "date": "2024-03-10",
+      "type": "SELL",
+      "symbol": "INFY",
+      "quantity": 2,
+      "price": 1500
+    }
+  ]
+}

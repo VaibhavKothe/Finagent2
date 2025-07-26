@@ -1,0 +1,13 @@
+{
+  "creditScore": 765,
+  "reportDate": "2024-05-22",
+  "accounts": [
+    {
+      "type": "Credit Card",
+      "bank": "HDFC Bank",
+      "limit": 50000,
+      "balance": 1500,
+      "status": "Active"
+    }
+  ]
+}

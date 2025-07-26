@@ -1,0 +1,16 @@
+{
+  "bankTransactions": [
+    {
+      "date": "2024-01-01",
+      "description": "Salary Credit",
+      "amount": 50000,
+      "type": "CREDIT"
+    },
+    {
+      "date": "2024-01-05",
+      "description": "ATM Withdrawal",
+      "amount": -2000,
+      "type": "DEBIT"
+    }
+  ]
+}
